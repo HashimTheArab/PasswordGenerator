@@ -1,5 +1,5 @@
 use eframe::{epi, egui};
-use egui::{CtxRef, CentralPanel, TopBottomPanel, Slider};
+use egui::{CtxRef, CentralPanel, Slider};
 use epi::{Frame};
 use settings::Settings;
 use crate::settings;
